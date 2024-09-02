@@ -164,6 +164,7 @@ main {
 
     .rate .stars {
         flex-direction: column;
+        position: static;
     }
 
     .static {
